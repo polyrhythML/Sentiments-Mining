@@ -3,6 +3,10 @@ A semi-supervised BERT based Sentiment classification model and Sentiment cluste
 
 ![diagram](diagram.jpg)
 
+![diagram](sst-2-eval.png)
+
+![diagram](complexity.png)
+
 ### Semi-supervised_tweet.ipynb : 
 * Cleans the dataset, tokenizes it and loads a pretrained BERT sentiment classification model to generate labels for the unlabelled tweets.
 * Generates the training and validation set with labels.
